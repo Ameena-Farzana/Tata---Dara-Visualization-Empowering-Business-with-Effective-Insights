@@ -1,6 +1,7 @@
 # Tata - Data Visualization : Empowering-Business-with-Effective-Insights
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-is-a-super-app-being-developed-by-the-Tata-Group&psig=AOvVaw1NHo6UIV0QEbYkWdCMslju&ust=1697404498180000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiOjNO69oEDFQAAAAAdAAAAABAG
+![image](https://github.com/Ameena-Farzana/Tata-Data_Visualization-Empowering_Business_with_Effective_Insights/assets/121862099/b7fe4779-8819-46f3-b138-4cdd71b2777b)
+
 
 ## Table of Contents
 
