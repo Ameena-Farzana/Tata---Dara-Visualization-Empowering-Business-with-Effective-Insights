@@ -1,6 +1,7 @@
 # Tata - Data Visualization : Empowering-Business-with-Effective-Insights
 
-https://qph.cf2.quoracdn.net/main-qimg-031a600c847de2a1b1dafd0c3e423600-lq
+![image](https://github.com/Ameena-Farzana/Tata-Data_Visualization-Empowering_Business_with_Effective_Insights/assets/121862099/45d2f300-f8c6-42ba-b099-02385eb48e17)
+
 
 ## Table of Contents
 
