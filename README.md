@@ -1,6 +1,6 @@
 # Tata - Data Visualization : Empowering-Business-with-Effective-Insights
 
-![Online Retail Store](retail_store_image.png)
+https://qph.cf2.quoracdn.net/main-qimg-031a600c847de2a1b1dafd0c3e423600-lq
 
 ## Table of Contents
 
